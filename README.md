@@ -3,4 +3,4 @@ This R code aligns two distance matrices with identical row and column names but
 
 To view the **R** code and detailed instructions, visit:
 
-[See the Code and Instructions](https://innerhaze.github.io/Alignment-of-Two-Distance-Matrices-for-Comparative-Analysis/)
+[See the Code and Instructions](https://innerhaze.github.io/distance-matrix-alignment/)
